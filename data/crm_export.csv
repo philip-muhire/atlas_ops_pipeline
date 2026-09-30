@@ -1,0 +1,5 @@
+customer_id,name,email,created_at
+CUST-001,Jimi Hendrix,jimi@example.com,2026-01-15
+CUST-002,Frida Kahlo,frida@example.com,2026-02-01
+CUST-001,Jimi Hendrix ,jimi@example.com,2026-01-15
+CUST-003,,corrupted_email,invalid-date

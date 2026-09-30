@@ -1,0 +1,20 @@
+[
+  {
+    "order_id": "ORD-101",
+    "customer_id": "CUST-001",
+    "amount": 199.99,
+    "status": "paid"
+  },
+  {
+    "order_id": "ORD-102",
+    "customer_id": "CUST-002",
+    "amount": 49.99,
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD-103",
+    "customer_id": "CUST-999",
+    "amount": -50.0,
+    "status": "unknown"
+  }
+]
