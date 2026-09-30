@@ -6,3 +6,7 @@ __pycache__/
 *.sqlite3
 *.log
 .env
+
+# Coverage reports
+.coverage
+htmlcov/
